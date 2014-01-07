@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1389121835 source:c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<list>
+	<unistd.h>
+	<iostream>
+	<string>
+	"Game.h"
+	"Leave.h"
+	"Win.h"
+
+1389120299 source:c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\src\awin.cpp
+	<iostream>
+	<unistd.h>
+	"AWin.h"
+
+1389120752 c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\include\awin.h
+	"Button.h"
+	<list>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1389117743 c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\include\button.h
+	<string>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	"AWin.h"
+
+1389117723 source:c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\src\button.cpp
+	<iostream>
+	"Button.h"
+
+1389119095 c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\include\leave.h
+	"Button.h"
+	"AWin.h"
+	<list>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1389118787 c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\include\win.h
+	"Button.h"
+	"AWin.h"
+	<list>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+
+1389119109 source:c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\src\leave.cpp
+	"Leave.h"
+
+1389118802 source:c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\src\win.cpp
+	"Win.h"
+
+1389122814 source:c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\src\game.cpp
+	<time.h>
+	<unistd.h>
+	"main.h"
+	"Game.h"
+
+1389122113 c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\include\game.h
+	"AWin.h"
+
+1389121531 c:\programation\doctor who a space and time adventure\doctor who a space & time adventure\include\main.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<list>
+	<unistd.h>
+	<iostream>
+	<string>
+	"AWin.h"
+
